@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<role id="admin" >
+	<users>
+		<name>ravi</name>
+		<email>ravi@gmail.com</email>
+		<phonenumber>9090909</phonenumber>
+	</users>
+	<users>
+		<name>john</name>
+		<email>rgggi@gmail.com</email>
+		<phonenumber>877609</phonenumber>
+	</users>
+</role>
